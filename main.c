@@ -8,6 +8,7 @@
 
 File    : main.c
 Purpose : Generic application start
+Adding comments for test
 
 */
 
